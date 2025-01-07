@@ -1,3 +1,6 @@
-img {
-    float: right;
-  }
+ img {
+              float: right;
+              margin-top: 20px;
+              margin-left: 20px;
+              margin-bottom: 0px;
+            }
